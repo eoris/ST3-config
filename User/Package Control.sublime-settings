@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Emmet",
+		"One Dark Material - Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"SummitLinter",
+		"Tag"
+	],
+	"repositories":
+	[
+		"https://packagecontrol.io/"
+	]
+}
