@@ -1,6 +1,5 @@
 {
 	"auto_complete": true,
-	"auto_complete_commit_on_tab": true,
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text.haml",
 	"auto_complete_triggers":
 	[
@@ -9,24 +8,26 @@
 			"selector": "punctuation.definition.string"
 		}
 	],
-	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 9,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"CodeComplice",
 		"CoffeeScriptHaml",
+		"SublimeCodeIntel",
 		"Vintage"
 	],
 	"index_files": true,
 	"rulers":
 	[
-		79
+		119
 	],
+	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"theme": "OneDarkMaterial.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"save_on_focus_lost": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": false
 }
