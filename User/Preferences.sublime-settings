@@ -10,8 +10,9 @@
 	],
 	"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
 	"copy_with_empty_selection": true,
-	"ensure_newline_at_eof_on_save": true,
-	"font_size": 9,
+	"ensure_newline_at_eof_on_save": false,
+	"font_face": "Fira Code Medium",
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
